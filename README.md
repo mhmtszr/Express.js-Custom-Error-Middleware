@@ -10,11 +10,17 @@ With this error management architecture, you will have the chance to manage your
    ```
   npm install
   ```
-3- Run the application.
+  
+3- If you don't have install nodemon.
+   ```
+  npm install -g nodemon
+  ```
+   
+4- Run the application.
   ```
   npm run start:dev
   ```
-4- Try example throwError endpoint.
+5- Try example throwError endpoint.
 
 ## Examples
 
